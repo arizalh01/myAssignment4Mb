@@ -1,0 +1,17 @@
+let us assume the person who run this program have accessabillity
+to all resources required for this program able to executed 
+successfully.
+
+let say the content of input.txt are as follows:
+10
+20
+
+
+So the output to console are:
+
+The two nos are 30
+
+
+The content of output.txt are:
+
+The total sum value is 30
